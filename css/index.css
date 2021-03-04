@@ -267,7 +267,7 @@ img {width: 100%;}
 .right_box .pr_box .pr_txt {width: 100%; display: block;}
 .right_box .pr_box .pr_txt div {padding-bottom: 6px; padding-left: 8px; font-size: 12px; font-weight: normal;}
 .right_box .pr_box .pr_txt div:nth-of-type(2) {padding-bottom: 10px;}
-.right_box .pr_box .pr_txt ul {display: none;}
+.right_box .pr_box .pr_txt ul {_display: none;}
       
 /*s1 contact*/
 .right_box .ct_box {width: 100%; height: 110px;}
